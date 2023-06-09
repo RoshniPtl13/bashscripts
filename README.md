@@ -1,0 +1,2 @@
+# bashscripts
+practice bash scripts
